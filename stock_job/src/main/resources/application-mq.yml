@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 192.168.186.150
+    port: 5672
+    username: Ming
+    password: 123321
+    virtual-host: /
